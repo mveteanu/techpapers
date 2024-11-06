@@ -2,7 +2,7 @@
 ## by Marian Veteanu
 
 ## AI/LLM
-- Harness Proprietary Data with Foundational Models and RAG: rag.pdf
+- Harness Proprietary Data with Foundational Models and RAG: ./rag.pdf
 - A visual presentation of Leading AI Studios: ai_studios.pdf
 - A Tour of Azure AI Services: azure_ai.pdf
 - OWASP Top 10 for LLMs: llm_security.pdf
