@@ -1,6 +1,8 @@
 # Technology Related Papers 
 ## by Marian Veteanu
 
+![](img/cover_orange.png)
+
 ## AI/LLM
 - Harness Proprietary Data with Foundational Models and RAG: [rag.pdf](https://github.com/mveteanu/techpapers/blob/main/rag.pdf)
 - A visual presentation of Leading AI Studios: [ai_studios.pdf](https://github.com/mveteanu/techpapers/blob/main/ai_studios.pdf)
