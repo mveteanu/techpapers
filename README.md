@@ -1,6 +1,10 @@
 # Technology Related Papers 
 ## by Marian Veteanu
 
+📢 Excited to join an organization where I can make an impact! Let’s **connect** and explore opportunities — **message me on LinkedIn**: https://www.linkedin.com/in/mveteanu/
+
+---
+
 ![](img/covers_orange.png)
 
 ## AI/LLM
@@ -31,4 +35,4 @@
 ## Industry quotes
 - Key Quotes Driving the Software Revolution: [quotes.pdf](https://github.com/mveteanu/techpapers/blob/main/quotes.pdf)
 
-📢 Excited to join an organization where I can make an impact! Let’s connect and explore opportunities — message me on LinkedIn: https://www.linkedin.com/in/mveteanu/
+Happy Coding!
