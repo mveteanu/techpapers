@@ -36,3 +36,8 @@
 - Key Quotes Driving the Software Revolution: [quotes.pdf](quotes.pdf)
 
 Happy Coding!
+
+## Message me on:
+
+- LinkedIn: [https://www.linkedin.com/in/mveteanu/](https://www.linkedin.com/in/mveteanu/)
+- X / Twitter: [https://x.com/mveteanu/](https://x.com/mveteanu/)
