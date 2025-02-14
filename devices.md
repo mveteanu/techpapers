@@ -5,7 +5,7 @@
 
 ---
 
-![](img/devices.png)
+![](img/devices.jpg)
 
 ## Modern Devices
 - Power Presenter: An OBS and PowerPoint clicker: [power_presenter.pdf](power_presenter.pdf)
