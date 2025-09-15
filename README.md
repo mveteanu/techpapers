@@ -1,7 +1,7 @@
 # Technology Related Papers 
 ## by Marian Veteanu
 
-📢 Excited to join an organization where I can make an impact! Let’s **connect** and explore opportunities — **message me on LinkedIn**: https://www.linkedin.com/in/mveteanu/
+📢 I am excited to join an organization where I can make an impact—whether as a **fractional CTO** providing strategic leadership or in a **full-time role** driving technology and product innovation. Let’s connect and explore opportunities — **message me on LinkedIn** https://www.linkedin.com/in/mveteanu/ or on **X** https://x.com/mveteanu
 
 ---
 
